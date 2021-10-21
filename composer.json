@@ -2,6 +2,7 @@
     "name": "staylime/zendframework1-overwrite",
     "type": "library",
     "license": "OSL-3.0",
+<<<<<<< HEAD
     "description": "Overrice zendframework1",
     "keywords": ["magento2"],
      "authors": [
@@ -14,3 +15,9 @@
         "files": [ "library/Zend/Filter/File/Rename.php"]
     }
 }
+=======
+    "autoload": {
+        "files": [ "library/Zend/Filter/File/Rename.php"]
+    }
+}
+>>>>>>> main
