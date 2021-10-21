@@ -1,0 +1,8 @@
+{
+    "name": "staylime/zendframework1-overwrite",
+    "type": "library",
+    "license": "OSL-3.0",
+    "autoload": {
+        "files": [ "library/Zend/Filter/File/Rename.php"]
+    }
+}
